@@ -4,4 +4,4 @@ ybasket Smart Contracts
 
 ## License
 
-WTFPL
+Creative Commons
